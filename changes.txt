@@ -1,0 +1,34 @@
+Changes
+
+- Homework 2 -
+1. Header: title, background picture, color, font size
+2. Menu: categories, contents, background color, bolder color
+3. About us: contents, background color, chef picture, restaurant picture
+4. Contact: information, we let people send us the request instead of making reservation. 
+5. Footer: ¡°Powered by Prof. Vladimir Skvortsov¡±
+
+- Homework 3 -
+1. New template (different from homework 2)
+2. Changed the title and header of the web page
+3. Navigation: new categories and dropdowns, changed name of categories, hyperlinks
+4. Banner: pictures of slide, titles and contents
+5. Home: headers, contents, pictures, slide of photos, hyperlinks, "Click here", side bar, etc.
+6. About: banner, category, headers, contents, pictures, introduction of team members, side bar, etc.
+7. Contact: banner, category, header, contents, contact form, etc.
+8. Recipe Pages: banners, categories, headers, contents, pictures, etc.
+9. Footer: headers, contents, contact information, e-mail form, placeholder, navigation, copyright, etc.
+
+- Homework 4 -
+1. Added new pages -> "asianfoods.html" and "westernfoods.html" that are connected to each category
+2. Added more contrast to banner's image and font colors
+3. Changed several images to higher quality
+4. Added "alt" for all images
+5. Adjusted overall alignments and margins of the website
+6. Changed the format of recipe's contents (paragraphs to order lists and unordered lists)
+7. Linked social network icons and tags to hyperlinks
+8. Added "mailto" function to "UPDATES" section
+9. Changed the map to school address on "Contact" page
+10. Changed the message form by utilizing Google Forms on "Contact" page
+11. Modified the contents of the recipes
+12. Modified the side bar for consistency
+13. Some other changes for the finalization of the website
